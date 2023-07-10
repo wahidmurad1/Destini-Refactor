@@ -1,4 +1,4 @@
-import 'package:destini/data/story_data.dart';
+import 'package:destini/controller/getxController/story_data.dart';
 import 'package:get/instance_manager.dart';
 
 class AllControllerBinding implements Bindings {

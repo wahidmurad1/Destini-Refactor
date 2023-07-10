@@ -1,4 +1,4 @@
-import 'package:destini/controller/allcontrollerbinding.dart';
+import 'package:destini/controller/binder/allcontrollerbinding.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'screens/home_screen.dart';
